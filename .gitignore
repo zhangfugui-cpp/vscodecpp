@@ -1,0 +1,4 @@
+.vscode/
+*.exe
+myfile1/
+del.bat
